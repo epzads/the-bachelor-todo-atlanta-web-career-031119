@@ -46,7 +46,7 @@ counter
  end
 
 
-end
+
 
 def get_occupation(data, hometown)
   # code here
